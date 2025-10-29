@@ -3,7 +3,8 @@
 A simple and interactive weather forecast web application built using **HTML**, **CSS**, and **JavaScript**, integrated with the **OpenWeatherMap API** to fetch real-time weather updates.
 
 ## 🚀 Live Demo
-🔗 [Click Here to View Live Project](https://github.com/prashantpathak11/weather-forecast-app)
+🔗 [Click Here to View Live Project](https://prashantpathak11.github.io/weather-forecast-app/)
+
 
 ---
 
